@@ -309,3 +309,14 @@ pytest
 ## License
 
 MIT © [Darshankumar Joshi](https://github.com/darshjme)
+
+---
+
+## Related Projects
+
+Building production-grade agent systems? These companion repos complete the stack:
+
+- **[react-guard-patterns](https://github.com/darshjme/react-guard-patterns)** — Stop-condition guards for ReAct agents. Prevent the infinite loops you'd otherwise have to debug.
+- **[llm-router](https://github.com/darshjme/llm-router)** — Semantic task routing. Dispatch to specialist agents before you even need to evaluate them.
+
+All three repos by [@darshjme](https://github.com/darshjme).
